@@ -10,12 +10,12 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/akhil2k-lc/bookStoreApp.git"
+        "url": "git+https://github.com/Kanza2001/BookstoreApp.git"
     },
-    "author": "Akhil",
+    "author": "kanza",
     "license": "ISC",
     "bugs": {
-        "url": "https://github.com/akhil2k-lc/bookStoreApp/issues"
+        "url": "https://github.com/Kanza2001/BookstoreApp/issues"
     },
     "homepage": "https://github.com/akhil2k-lc/bookStoreApp#readme",
     "dependencies": {
